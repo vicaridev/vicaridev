@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available here on github
 
-- 🎵 ** Life without music would be a mistake**
+- 🎵 *Life without music would be a mistake*
 
 <br><br>
 
