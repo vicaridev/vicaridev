@@ -1,7 +1,7 @@
 <h1 align="left">Hi 😊, I'm Vinícius Vicari</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicarizzzord&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Programming student, focused on back-end. 
+- 🔥 Programming student, focused on back-end 
 
 - 🔭 I’m currently studying at Fatec Indaiatuba
 
