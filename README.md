@@ -3,7 +3,7 @@
 
 - 🔥 Programming student, focused on back-end 
 
-- 🔭 I’m currently studying at Fatec Indaiatuba
+- 🔭 I’m graduated at Fatec Indaiatuba on Systems Analysis and Development
 
 - 🌱 I’m currently learning Node.js and Typescript
 
