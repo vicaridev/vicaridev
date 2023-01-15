@@ -5,11 +5,9 @@
 
 - 🔭 I’m graduated at Fatec Indaiatuba on Systems Analysis and Development
 
-- 🌱 I’m currently learning Node.js and Typescript
+- 🌱 I’m currently learning Node.js and React.js with Typescript
 
 - 👨‍💻 All of my projects are available here on github
-
-- 🎵 *Life without music would be a mistake*
 
 <br><br>
 
