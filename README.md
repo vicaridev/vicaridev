@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Node.js and React.js with Typescript
 
-- 👨‍💻 All of my projects are available here on github. Some of them are on private, for security issues.
+- 👨‍💻 All of my projects are available here on github. Some of them are on private, for security issues
 
 <br><br>
 
