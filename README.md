@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available here on github. Some of them are on private, for security issues
 
+- 📩 Email: vvicari97@hotmail.com
+
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
