@@ -5,7 +5,7 @@
 
 - 🔭 I’m graduated at Fatec Indaiatuba on Systems Analysis and Development
 
-- 🌱 I’m currently learning Python with Pandas
+- 🌱 I’m currently developing my abilities to fullstack dev
 
 - 👨‍💻 All of my projects are available here on github. Some of them are on private, for security issues
 
@@ -17,14 +17,14 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![PowerBI](https://img.shields.io/badge/-Powerbi-05122A?style=flat&logo=powerbi)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![Node.js](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=nodejs)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=databricks)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
