@@ -1,8 +1,6 @@
 <h1 align="left">Hi 😊, I'm Vinícius Vicari</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicarizzzord&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Programming student, on the road to data analysis
-
 - 🔭 I’m graduated at Fatec Indaiatuba on Systems Analysis and Development
 
 - 🌱 I’m currently developing my abilities to fullstack dev
@@ -19,7 +17,7 @@
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![Node.js](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=nodejs)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodejs)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
