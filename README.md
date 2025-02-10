@@ -1,7 +1,7 @@
 <h1 align="left">Hi 😊, I'm Vinícius Vicari</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vicarizzzord&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vicarizzzord&color=blue" alt="Profile views" /> </p>
 
-- 🌱 I’m currently developing my abilities to fullstack dev
+- 🌱 I’m currently developing my abilities to data engineering
 
 - 👨‍💻 All of my projects are available here on github. Some of them are on private, for security issues
 
@@ -13,10 +13,8 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
