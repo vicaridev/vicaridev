@@ -30,8 +30,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=vicarizzzord&show_icons=true&theme=vision-friendly-dark" alt="vini's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicarizzzord&layout=compact&theme=vision-friendly-dark" alt="vinis's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=vicaridev&show_icons=true&theme=vision-friendly-dark" alt="vini's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicaridev&layout=compact&theme=vision-friendly-dark" alt="vinis's most languages"/>
 </p>
 
 <br><br>
