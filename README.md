@@ -1,7 +1,7 @@
 <h1 align="left">Hi 😊, I'm Vinícius Vicari</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicarizzzord&color=blue" alt="Profile views" /> </p>
 
-- 🌱 I’m currently developing my abilities to data engineering
+- 🌱 I’m currently developing my abilities for data engineering
 
 - 👨‍💻 All of my projects are available here on github. Some of them are on private, for security issues
 
@@ -12,20 +12,15 @@
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Databricks](https://img.shields.io/badge/Databricks-333333?style=for-the-badge&logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-Mongodb-333333?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![MongoDB](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-
-
-
-<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
